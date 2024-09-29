@@ -1,4 +1,4 @@
-# SPREADSHEET IMPORTER (NPM)
+# SPREADSHEET IMPORTER (COMPONENT NPM)
 
 [SpreadsheetImporter - Deployment](https://docs.spreadsheet-importer.com/pages/GettingStarted/)
 

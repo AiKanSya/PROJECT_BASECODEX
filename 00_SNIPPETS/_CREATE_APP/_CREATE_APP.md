@@ -1,4 +1,4 @@
-# TUTORIAL - CREATION APPLICATION UI5
+# CREATION APPLICATION UI5
 
 ## BACKEND
 
@@ -130,6 +130,8 @@
 - ``SAP BUSINESS TO PARTNER COCKPIT`` - Navigation vers le BAS
 
     ![](../RESSOURCES/00_CREATE_APP_035.jpg)
+
+    ![](../RESSOURCES/00_CREATE_APP_036.jpg)
   
 </details>
 
@@ -194,8 +196,6 @@
     <summary>BIND - GITLAB</summary>
 
 - ``SAP BUSINESS APPLICATION STUDIO`` - Lier le projet au repository ``palettisationpan``
-
-    ![](../RESSOURCES/01_APP_027.jpg)
 
     ![](../RESSOURCES/00_CREATE_APP_049.jpg)
 
